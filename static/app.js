@@ -1,3 +1,4 @@
+
 let nomes = [];
 
 function adicionarAmigo() {
